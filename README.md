@@ -1,3 +1,3 @@
 # whyck-resume
 
-DEMO：(https://ck18781145809.github.io/whyck-resume/index.html,"摸我")
+DEMO：[摸我](https://github.com/ck18781145809/whyck-resume/index.html)
